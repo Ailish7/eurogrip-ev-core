@@ -1,0 +1,8 @@
+[project]
+name = "eurogrip-ev-core"
+version = "0.1.0"
+description = "Eurogrip EV-Core: EV two-wheeler tyre concept case study and calculators"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["src"]
