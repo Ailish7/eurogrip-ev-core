@@ -32,3 +32,4 @@ python -m ev_core.report        # run with PYTHONPATH=src
 - `range_model.py`: range gain from RR reduction and its battery/INR value to an OEM.
 
 All figures are engineering targets and estimates from the case study, to be validated in Round 2.
+B77V2G
